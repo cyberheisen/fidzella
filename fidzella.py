@@ -1,3 +1,9 @@
+##################
+# Fidzella 1.0
+# Cyberheisen
+# 03172025
+##################
+
 import csv
 import datetime
 import pandas as pd
